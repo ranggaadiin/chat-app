@@ -71,5 +71,6 @@ npm start
 
 Pastikan server Socket.IO sudah berjalan agar fitur chat berfungsi dengan baik.
 
-
+Link
+GitHub: https://github.com/ranggaadiin/chat-app
 
